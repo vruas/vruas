@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4888F1&size=35&start=true&vStart=true&width=1000&lines=Olá!,+Eu+sou+o+Vitor+Ruas;Seja+Bem-vindo%28a%29!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4888F1&size=35&start=true&vStart=true&width=1000&lines=Hello!,+My+name+is+Vitor+Ruas;Welcome!)](https://git.io/typing-svg)
 
 
 
