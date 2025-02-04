@@ -50,6 +50,14 @@ Meu nome é Vitor, tenho 21 anos e sou natural de São Paulo. Sou formado em An�
 />
 <img 
     align="left" 
+    alt="microsoftsqlserver" 
+    title="SQL Server"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
