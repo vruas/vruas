@@ -4,7 +4,7 @@
 
 **`Desenvolvedor C#`**
 
-Meu nome é Vitor, tenho 21 anos e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP, onde tive a oportunidade de trabalhar em diversos projetos, incluindo desenvolvimento de aplicações web, APIs, bancos de dados relacionais e não relacionais, além de explorar modelos de Machine Learning e Internet das Coisas (IoT). Durante minha formação, adquiri experiência prática com várias linguagens e tecnologias, como Java e Spring Boot, JavaScript, TypeScript e React.js, Python e Jupyter, e C# com .NET Core. Dentre essas tecnologias, destaco meu sólido conhecimento e experiência profissional com C# e .NET Core, áreas nas quais tenho maior domínio e aplicabilidade.
+Meu nome é Vitor, tenho 23 anos e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP, onde tive a oportunidade de trabalhar em diversos projetos, incluindo desenvolvimento de aplicações web, APIs, bancos de dados relacionais e não relacionais, além de explorar modelos de Machine Learning e Internet das Coisas (IoT). Durante minha formação, adquiri experiência prática com várias linguagens e tecnologias, como Java e Spring Boot, JavaScript, TypeScript e React.js, Python e Jupyter, e C# com .NET Core. Dentre essas tecnologias, destaco meu sólido conhecimento e experiência profissional com C# e .NET Core, áreas nas quais tenho maior domínio e aplicabilidade.
 
  <p align="left">
       <a href="https://www.instagram.com/vetoor__/">
